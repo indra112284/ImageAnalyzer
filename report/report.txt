@@ -1,0 +1,218 @@
+============================================================
+           IMAGE DATASET ANALYZER REPORT
+============================================================
+
+IMAGE DETAILS
+------------------------------------------------------------
+
+Image Name      : butterfly (1).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 225
+Resolution      : (300, 225)
+Total Pixels    : 67500
+Aspect Ratio    : 1.33
+File Size (KB)  : 8.54
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\butterfly (1).jpeg
+------------------------------------------------------------
+Image Name      : butterfly 2.jpg
+Format          : JPEG
+Mode            : RGB
+Width           : 426
+Height          : 640
+Resolution      : (426, 640)
+Total Pixels    : 272640
+Aspect Ratio    : 0.67
+File Size (KB)  : 60.53
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\butterfly 2.jpg
+------------------------------------------------------------
+Image Name      : cat (1).jpg
+Format          : JPEG
+Mode            : RGB
+Width           : 4288
+Height          : 2287
+Resolution      : (4288, 2287)
+Total Pixels    : 9806656
+Aspect Ratio    : 1.87
+File Size (KB)  : 2324.48
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\cat (1).jpg
+------------------------------------------------------------
+Image Name      : cat 2.png
+Format          : PNG
+Mode            : RGBA
+Width           : 640
+Height          : 402
+Resolution      : (640, 402)
+Total Pixels    : 257280
+Aspect Ratio    : 1.59
+File Size (KB)  : 567.17
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\cat 2.png
+------------------------------------------------------------
+Image Name      : dog (100).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 256
+Resolution      : (300, 256)
+Total Pixels    : 76800
+Aspect Ratio    : 1.17
+File Size (KB)  : 11.24
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\dog (100).jpeg
+------------------------------------------------------------
+Image Name      : dog (1000).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 300
+Resolution      : (300, 300)
+Total Pixels    : 90000
+Aspect Ratio    : 1.0
+File Size (KB)  : 8.02
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\dog (1000).jpeg
+------------------------------------------------------------
+Image Name      : dog (1011).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 225
+Resolution      : (300, 225)
+Total Pixels    : 67500
+Aspect Ratio    : 1.33
+File Size (KB)  : 12.74
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\dog (1011).jpeg
+------------------------------------------------------------
+Image Name      : elephant (100).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 199
+Resolution      : (300, 199)
+Total Pixels    : 59700
+Aspect Ratio    : 1.51
+File Size (KB)  : 11.13
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\elephant (100).jpeg
+------------------------------------------------------------
+Image Name      : elephant (1003).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 225
+Resolution      : (300, 225)
+Total Pixels    : 67500
+Aspect Ratio    : 1.33
+File Size (KB)  : 16.42
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\elephant (1003).jpeg
+------------------------------------------------------------
+Image Name      : horse (1007).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 225
+Resolution      : (300, 225)
+Total Pixels    : 67500
+Aspect Ratio    : 1.33
+File Size (KB)  : 10.3
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\horse (1007).jpeg
+------------------------------------------------------------
+Image Name      : horse (1021).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 261
+Resolution      : (300, 261)
+Total Pixels    : 78300
+Aspect Ratio    : 1.15
+File Size (KB)  : 16.92
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\horse (1021).jpeg
+------------------------------------------------------------
+Image Name      : sheep (1).jpg
+Format          : JPEG
+Mode            : RGB
+Width           : 640
+Height          : 480
+Resolution      : (640, 480)
+Total Pixels    : 307200
+Aspect Ratio    : 1.33
+File Size (KB)  : 135.0
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\sheep (1).jpg
+------------------------------------------------------------
+Image Name      : sheep (1004).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 252
+Resolution      : (300, 252)
+Total Pixels    : 75600
+Aspect Ratio    : 1.19
+File Size (KB)  : 21.91
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\sheep (1004).jpeg
+------------------------------------------------------------
+Image Name      : spider (1003).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 293
+Height          : 300
+Resolution      : (293, 300)
+Total Pixels    : 87900
+Aspect Ratio    : 0.98
+File Size (KB)  : 20.32
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\spider (1003).jpeg
+------------------------------------------------------------
+Image Name      : spider (1013).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 270
+Height          : 231
+Resolution      : (270, 231)
+Total Pixels    : 62370
+Aspect Ratio    : 1.17
+File Size (KB)  : 5.77
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\spider (1013).jpeg
+------------------------------------------------------------
+Image Name      : squirrel (10).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 201
+Height          : 300
+Resolution      : (201, 300)
+Total Pixels    : 60300
+Aspect Ratio    : 0.67
+File Size (KB)  : 11.47
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\squirrel (10).jpeg
+------------------------------------------------------------
+Image Name      : squirrel (100).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 218
+Resolution      : (300, 218)
+Total Pixels    : 65400
+Aspect Ratio    : 1.38
+File Size (KB)  : 13.69
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\squirrel (100).jpeg
+------------------------------------------------------------
+Image Name      : squirrel (1019).jpeg
+Format          : JPEG
+Mode            : RGB
+Width           : 300
+Height          : 195
+Resolution      : (300, 195)
+Total Pixels    : 58500
+Aspect Ratio    : 1.54
+File Size (KB)  : 15.16
+Grayscale Image : C:\Users\IndrasenaChittiboina\Desktop\image analyser\processed\squirrel (1019).jpeg
+------------------------------------------------------------
+
+============================================================
+SUMMARY
+============================================================
+Total Files      : 18
+Valid Images     : 18
+Invalid Images   : 0
+
+FORMAT COUNT
+------------------------------------------------------------
+JPEG       : 17
+PNG        : 1
+============================================================

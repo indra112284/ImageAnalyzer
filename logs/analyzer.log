@@ -1,0 +1,23 @@
+2026-07-30 14:16:57,773 | INFO | Project Started
+2026-07-30 14:16:57,788 | INFO | Dataset Analysis Started
+2026-07-30 14:16:57,863 | INFO | Processed : butterfly (1).jpeg
+2026-07-30 14:16:57,875 | INFO | Processed : butterfly 2.jpg
+2026-07-30 14:16:58,088 | INFO | Processed : cat (1).jpg
+2026-07-30 14:16:58,175 | INFO | Processed : cat 2.png
+2026-07-30 14:16:58,181 | INFO | Processed : dog (100).jpeg
+2026-07-30 14:16:58,185 | INFO | Processed : dog (1000).jpeg
+2026-07-30 14:16:58,190 | INFO | Processed : dog (1011).jpeg
+2026-07-30 14:16:58,194 | INFO | Processed : elephant (100).jpeg
+2026-07-30 14:16:58,200 | INFO | Processed : elephant (1003).jpeg
+2026-07-30 14:16:58,205 | INFO | Processed : horse (1007).jpeg
+2026-07-30 14:16:58,210 | INFO | Processed : horse (1021).jpeg
+2026-07-30 14:16:58,231 | INFO | Processed : sheep (1).jpg
+2026-07-30 14:16:58,235 | INFO | Processed : sheep (1004).jpeg
+2026-07-30 14:16:58,240 | INFO | Processed : spider (1003).jpeg
+2026-07-30 14:16:58,245 | INFO | Processed : spider (1013).jpeg
+2026-07-30 14:16:58,250 | INFO | Processed : squirrel (10).jpeg
+2026-07-30 14:16:58,255 | INFO | Processed : squirrel (100).jpeg
+2026-07-30 14:16:58,261 | INFO | Processed : squirrel (1019).jpeg
+2026-07-30 14:16:58,262 | INFO | Dataset Analysis Completed
+2026-07-30 14:16:58,264 | INFO | Report generated successfully.
+2026-07-30 14:16:58,275 | INFO | Project Completed Successfully
