@@ -7,6 +7,7 @@ Handles image reading and processing.
 import os
 from PIL import Image
 
+from base_imagehandler import BaseImageHandler
 from constants import SUPPORTED_FORMATS, PROCESSED_FOLDER
 from exceptions import (
     UnsupportedFormatError,
@@ -16,17 +17,19 @@ from logger import log_info, log_error
 from image_utils import analyze_image
 
 
-class ImageHandler:
+class ImageHandler(BaseImageHandler):
     """
-    Handles image operations.
+    Child class that inherits from BaseImageHandler.
     """
 
     def __init__(self):
+        super().__init__()
         os.makedirs(PROCESSED_FOLDER, exist_ok=True)
 
     def validate_image(self, image_path):
         """
         Check whether image format is supported.
+        Overrides the parent class method.
         """
 
         extension = os.path.splitext(image_path)[1].lower()
