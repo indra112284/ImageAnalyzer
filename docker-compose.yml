@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  image-analyzer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: image-analyzer
+
+    volumes:
+      - ./dataset:/app/dataset
+      - ./processed:/app/processed
+      - ./report:/app/report
+
+    restart: "no"
+
+    command: python main.py
