@@ -1,7 +1,7 @@
-version: "3.9"
-
 services:
   image-analyzer:
+    image: indrasena/image-analyzer:v1
+
     build:
       context: .
       dockerfile: Dockerfile
