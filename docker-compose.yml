@@ -1,6 +1,6 @@
 services:
   image-analyzer:
-    image: indrasena/image-analyzer:v1
+    image: indra11596/image-analyzer:v1
 
     build:
       context: .
